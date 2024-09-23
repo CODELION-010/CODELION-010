@@ -33,9 +33,9 @@ style="height: 4rem; background-color:rgba(255, 255, 255, 0.8); border-radius: 5
 style="height: 4rem; background-color:white"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg"
 style="height: 4rem; background-color:white"/>
-<div style="display: inline-block; background-color: white; border-radius: 50%; padding: 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30">
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30"
+  style="display: inline-block; background-color: white; border-radius: 50%; padding: 5px;"/>
+
           
           
 </p>
