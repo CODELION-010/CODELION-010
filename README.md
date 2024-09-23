@@ -1,4 +1,4 @@
-<img src="https://github.com/RaviSolanki27/RaviSolanki27/raw/master/banner.png" style="height: 100% , width:100%">
+<img src="" style="height: 100% , width:100%">
 <h1 align="center">Hola 👋,Soy Oscar León</h1>
 <h3 align="center">Soy estudiante de analisis y desarrollo de software</h3>
 
