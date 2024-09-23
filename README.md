@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **M E R N**
 
-- 📫 How to reach me **ravisolanki9322@gmail.com**
+- 📫 How to reach me **/**
 
 ---
 
 <h1 align="center">TECHNOLOGY</h1>
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
+<p align="center"><img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXalRyF7J7QRLkJfMwCMqA47UUDCFdHJ-dFQ&s)" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="height:4rem; background-color:white"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="height: 4rem; background-color:white"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="height: 4rem; background-color:white"/>
