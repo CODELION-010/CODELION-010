@@ -44,7 +44,7 @@ style="height: 4rem; background-color:white"/>
 
 <h1 align="center">STATS</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=RaviSolanki27" alt="ravisolanki" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=CODELION-010" alt="ravisolanki" /> </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravisolanki27&theme=gotham&show_icons=true" alt="ravisolanki" />
 
