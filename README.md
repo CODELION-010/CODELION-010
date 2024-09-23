@@ -59,12 +59,12 @@ style="height: 4rem; background-color:white"/>
 
 <h4>1. Todo app using ReactJS </h4>
 
-<a href="https://ravisolanki27.github.io/React-Project/" target="blank"><img src="https://github.com/RaviSolanki27/RaviSolanki27/raw/master/todo.png" ></a>
+<a href="https://ravisolanki27.github.io/React-Project/" target="blank"><img src="" ></a>
 
 
 <h4>2. Random Quote generator using NodeJs </h4>
 
-<a href="https://ravisolanki27.github.io/Quote-Generator/" target="blank"><img src="https://github.com/RaviSolanki27/RaviSolanki27/raw/master/qoutegenerator.png" ></a>
+<a href="https://ravisolanki27.github.io/Quote-Generator/" target="blank"><img src="" ></a>
 
 ---
 
