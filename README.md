@@ -1,16 +1,14 @@
-<img src="" style="height: 100% , width:100%">
 <h1 align="center">Hola 👋,Soy Oscar León</h1>
-<h3 align="center">Soy estudiante de analisis y desarrollo de software</h3>
+<h3 align="center">Soy estudiante de analisis y desarrollo de software
+apasionado por la programación, autodidacta, resposbsabke y organizado</h3>
 
 ---
 
-- 🔭 I’m currently working on [Portfolio website]()
+- 🔭 Actualmente trabajo en INCHCAPE DDC
 
-- 🌱 I’m currently learning **M E R N**
+- 🌱 Actualmente estoy apredniendo PHP con Laravel, dispuesto a aprender cualquier tecnologia.
 
-- 📫 How to reach me **/**
 
----
 
 <h1 align="center">TECHNOLOGIAS</h1>
 
@@ -35,9 +33,7 @@ style="height: 4rem; background-color:white"/>
 style="height: 4rem; background-color:white"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30"
   style="display: inline-block; background-color: white; border-radius: 50%; padding: 5px;"/>
-
-          
-          
+       
 </p>
 
 ---
