@@ -43,15 +43,19 @@ style="height: 4rem; background-color:white"/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=CODELION-010" alt="ravisolanki" /> </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CODELION-010&theme=gotham&show_icons=true" alt="CODELION-010" />
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=CODELION-010&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="CODELION-010" /></p>
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=CODELION-010&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="CODELION-010" />
+</p>
 
 
 ---
 <h1 align="center">PROJECTS</h1>
 
-<h4>1. App D.S.S."Dayli Square System" </h4>
+<h4>1. App D.S.S.-Dayli Square System</h4>
 
-<a href="https://dailysquearesystem.kesug.com/" target="blank"></a>
+Enlace:<a href="https://dailysquearesystem.kesug.com/" target="_blank">D.S.S.</a>
+<h4>2.Pagina web Worddpress-Cliente Metaldicon</h4>
+
+Enlace:<a href="https://metaldicon.com.co/" target="_blank">Metaldicon</a>
 
 
 <h1 align="center">SOCIAL</h1>
@@ -61,7 +65,7 @@ style="height: 4rem; background-color:white"/>
 </div>
 
 ---
-<h6 align="center">Made with ❤️ by Me (probably)</h6>
+<h2 align="center">Gracias por visitar mi perfil ❤️ 👋,Adios</h2> 
 
 ---
 
