@@ -50,7 +50,7 @@ style="height: 4rem; background-color:white"/>
 ---
 <h1 align="center">PROJECTS</h1>
 
-<h4>1. App D.S.S.-Dayli Square System</h4>
+<h4>1. App D.S.S.-Daily Square System</h4>
 
 Enlace:<a href="https://dailysquearesystem.kesug.com/" target="_blank">D.S.S.</a>
 <h4>2.Pagina web Worddpress-Cliente Metaldicon</h4>
