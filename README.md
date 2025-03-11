@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋,Soy Oscar León</h1>
-<h3 align="center">Soy estudiante de analisis y desarrollo de software
-apasionado por la programación, autodidacta, resposbsabke y organizado</h3>
+<h3 align="center">Soy estudiante de análisis y desarrollo de software
+apasionado por la programación, autodidacta, resposnsable y organizado</h3>
 
 ---
 
